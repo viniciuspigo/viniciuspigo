@@ -1,16 +1,31 @@
-## Hi there 👋
+# ✌️ Vinicius Piras
 
-<!--
-**viniciuspigo/viniciuspigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudando: React & TypeScript`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Estou trilhando meu caminho para me tornar um desenvolvedor fullstack completo, com conhecimentos sólidos em ambas as stacks, além de uma boa base tanto em software quanto em hardware. Estou sempre em busca de evolução, com o foco em ser cada vez mais competitivo e me destacar como um dos melhores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Linguagens e Tecnologias
+
+<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Sass" title="Sass" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+<img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Express" title="Express" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+<img align="left" alt="Fastify" title="Fastify" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg" />
+
+<br clear="left" />
+<br clear="left" />
+
+## 🚀 Projetos em Destaque
+
+- 🎯 [Reembolso_Project] (https://github.com/viniciuspigo/Reembolso_Project): Sistema de reembolsos com autenticação para usuários e administradores, envio de comprovantes em PDF com armazenamento via bucket (Supabase Storage) e painel para visualização de todos os reembolsos realizados.
+
+<br clear="left" />
+
+## 📈 GitHub Stats
+
+<img align="left" alt="Fastify" title="Fastify" height="150px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=viniciuspigo&show_icons=true&theme=tokyonight&locale=pt-br" />
+<img align="left" alt="Fastify" title="Fastify" height="150px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspigo&layout=compact&theme=tokyonight&locale=pt-br" />
