@@ -6,7 +6,7 @@ Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Esto
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -21,13 +21,14 @@ Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Esto
 <br clear="left" />
 <br clear="left" />
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 
-- 🎯 [Reembolso_Project] (https://github.com/viniciuspigo/Reembolso_Project): Sistema de reembolsos com autenticação para usuários e administradores, envio de comprovantes em PDF com armazenamento via bucket (Supabase Storage) e painel para visualização de todos os reembolsos realizados.
+- [Reembolso_Project] (https://github.com/viniciuspigo/Reembolso_Project): Sistema de reembolsos com autenticação para usuários e administradores, envio de comprovantes em PDF com armazenamento via bucket (Supabase Storage) e painel para visualização de todos os reembolsos realizados.
 
+- [Agendamentos Luana Nail Design]: Sistema de agendamento de serviços de unhas em gel, com controle de horários, cadastro de clientes e painel administrativo para gerenciamento de atendimentos (EM ANDAMENTO).
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <img align="left" alt="Fastify" title="Fastify" height="150px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=viniciuspigo&show_icons=true&theme=tokyonight&locale=pt-br" />
 <img align="left" alt="Fastify" title="Fastify" height="150px" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspigo&layout=compact&theme=tokyonight&locale=pt-br" />
