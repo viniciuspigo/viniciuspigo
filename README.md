@@ -1,6 +1,6 @@
 # ✌️ Vinicius Piras
 
-**`Estudando: React & TypeScript`**
+**`Estudando: Testes Automatizados`**
 
 Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Estou trilhando meu caminho para me tornar um desenvolvedor fullstack completo, com conhecimentos sólidos em ambas as stacks, além de uma boa base tanto em software quanto em hardware. Estou sempre em busca de evolução, com o foco em ser cada vez mais competitivo e me destacar como um dos melhores.
 
