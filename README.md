@@ -25,7 +25,7 @@ Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Esto
 
 - [Reembolso_Project] (https://github.com/viniciuspigo/Reembolso_Project): Sistema de reembolsos com autenticação para usuários e administradores, envio de comprovantes em PDF com armazenamento via bucket (Supabase Storage) e painel para visualização de todos os reembolsos realizados.
 
-- [Agendamentos Luana Nail Design]: Sistema de agendamento de serviços de unhas em gel, com controle de horários, cadastro de clientes e painel administrativo para gerenciamento de atendimentos (EM ANDAMENTO) - 70%.
+- [Agendamentos Luana Nail Design]: Sistema de agendamento de serviços de unhas em gel, com controle de horários, cadastro de clientes e painel administrativo para gerenciamento de atendimentos (EM ANDAMENTO) - 95%.
 ---
 
 ### GitHub Stats
