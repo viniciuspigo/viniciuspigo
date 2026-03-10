@@ -1,6 +1,6 @@
 # ✌️ Vinicius Piras
 
-## i'm currently working on refactoring the UI for Luana's Nail Design project
+## i'm currently working on Pogs (Cs Tournaments And Fantasy Teams)
 
 Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Estou trilhando meu caminho para me tornar um desenvolvedor fullstack completo, com conhecimentos sólidos em ambas as stacks, além de uma boa base tanto em software quanto em hardware. Estou sempre em busca de evolução, com o foco em ser cada vez mais competitivo e me destacar como um dos melhores.
 
@@ -24,6 +24,8 @@ Olá! Me chamo Vinicius Piras e sou um estudante do universo da tecnologia. Esto
 <br clear="left" />
 
 ### Projetos em Destaque
+
+- [Portfólio] (https://pirasdev.com)
 
 - [Reembolso_Project] (https://reembolso.pirasdev.com): Sistema de reembolsos com autenticação para usuários e administradores, envio de comprovantes em PDF com armazenamento via bucket (Supabase Storage) e painel para visualização de todos os reembolsos realizados.
 
